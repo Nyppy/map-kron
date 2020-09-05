@@ -13,7 +13,7 @@
     "core-js": "^3.4.4",
     "css-loader": "^3.4.1",
     "jquery": "^3.4.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "vue": "^2.6.10",
     "vue-axios": "^2.1.5",
     "vue-loader": "^15.8.3",
